@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bhavnavarshney&color=green)
 
 ## Hi 👋, 
-I'm Bhavna Varshney, I'm a Software Engineer 👩‍💻 who is passionate about Distributed Systems and learning architecture.
+I'm Bhavna Varshney, I'm a Software Engineer 👩‍💻 who is passionate about Distributed Systems and Cloud Technologies.
 
 - 🔭 I’m currently working on: [ecommerce](https://github.com/bhavnavarshney/ecommerce) project.
 - 🌱 I’m currently learning: Java, SpringBoot
