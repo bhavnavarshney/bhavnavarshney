@@ -15,16 +15,3 @@ I'm Bhavna Varshney, I'm a Software Engineer 👩‍💻 who is passionate about
 - ⚡️ Technologies: Go, Cassandra, Kafka, Java, Spring
 
 "Change is your friend not your foe. Change is a brilliant opportunity to grow"
-<p align="justify">
-  <a href="https://github.com/bhavnavarshney/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=bhavnavarshney&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
-    />
-  </a>
-   <a href="https://github.com/bhavnavarshney/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavnavarshney&layout=compact&theme=radical" />
-  </a>  
-</p>
